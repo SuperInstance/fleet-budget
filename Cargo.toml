@@ -1,0 +1,10 @@
+[package]
+name = "fleet-budget"
+version = "0.1.0"
+description = "A Rust library for Fleet Budget"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/fleet-budget"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }

@@ -1,0 +1,8 @@
+name = "fleet-budget"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "fleet-budget"
+database_id = "placeholder-create-with-wrangler-d1-create"
